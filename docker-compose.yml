@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  web:
+    build: .
+    container_name: poi_web
+    command: /app/docker/entrypoint.sh
+    ports:
+      - "8000:8000"
+    environment:
+      DJANGO_SETTINGS_MODULE: poi_project.settings
+      PYTHONUNBUFFERED: "1"
+      # Add env vars here if you later parameterize settings
+      # SECRET_KEY: "change-me"
+      # DEBUG: "1"
+    volumes:
+      - .:/app
