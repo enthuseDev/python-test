@@ -1,0 +1,35 @@
+[
+  {
+    "id": "JSON001",
+    "name": "Metropolitan Museum of Art",
+    "coordinates": {
+      "latitude": 40.7794,
+      "longitude": -73.9632
+    },
+    "category": "Museum",
+    "ratings": [4.6, 4.8, 4.4, 4.7, 4.5],
+    "description": "One of the world's largest and most comprehensive art museums, located on the eastern edge of Central Park."
+  },
+  {
+    "id": "JSON002",
+    "name": "High Line",
+    "coordinates": {
+      "latitude": 40.7480,
+      "longitude": -74.0048
+    },
+    "category": "Park",
+    "ratings": [4.3, 4.5, 4.2, 4.6, 4.4],
+    "description": "An elevated linear park built on a former New York Central Railroad spur on the west side of Manhattan."
+  },
+  {
+    "id": "JSON003",
+    "name": "9/11 Memorial",
+    "coordinates": {
+      "latitude": 40.7115,
+      "longitude": -74.0134
+    },
+    "category": "Memorial",
+    "ratings": [4.8, 4.9, 4.7, 4.8, 4.6],
+    "description": "A memorial and museum commemorating the September 11, 2001 attacks and the 1993 World Trade Center bombing."
+  }
+]

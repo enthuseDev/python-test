@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pois>
+  <poi>
+    <pid>XML001</pid>
+    <pname>One World Trade Center</pname>
+    <platitude>40.7127</platitude>
+    <plongitude>-74.0134</plongitude>
+    <pcategory>Skyscraper</pcategory>
+    <pratings>4.5, 4.3, 4.7, 4.4, 4.6</pratings>
+  </poi>
+  <poi>
+    <pid>XML002</pid>
+    <pname>Coney Island</pname>
+    <platitude>40.5755</platitude>
+    <plongitude>-73.9707</plongitude>
+    <pcategory>Beach</pcategory>
+    <pratings>3.8, 4.0, 3.9, 4.1, 3.7</pratings>
+  </poi>
+  <poi>
+    <pid>XML003</pid>
+    <pname>Yankee Stadium</pname>
+    <platitude>40.8296</platitude>
+    <plongitude>-73.9262</plongitude>
+    <pcategory>Stadium</pcategory>
+    <pratings>4.2, 4.4, 4.1, 4.5, 4.3</pratings>
+  </poi>
+  <poi>
+    <pid>XML004</pid>
+    <pname>Central Park Zoo</pname>
+    <platitude>40.7678</platitude>
+    <plongitude>-73.9718</plongitude>
+    <pcategory>Zoo</pcategory>
+    <pratings>4.0, 4.2, 3.9, 4.3, 4.1</pratings>
+  </poi>
+</pois>

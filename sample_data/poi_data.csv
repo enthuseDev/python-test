@@ -1,0 +1,6 @@
+poi_id,poi_name,poi_latitude,poi_longitude,poi_category,poi_ratings
+POI001,Central Park,40.7829,-73.9654,Park,"[4.5, 4.2, 4.8, 4.1, 4.6]"
+POI002,Times Square,40.7580,-73.9855,Tourist Attraction,"[3.8, 4.0, 3.5, 4.2, 3.9]"
+POI003,Brooklyn Bridge,40.7061,-73.9969,Landmark,"[4.7, 4.5, 4.9, 4.3, 4.6]"
+POI004,Statue of Liberty,40.6892,-74.0445,Monument,"[4.8, 4.6, 4.9, 4.7, 4.5]"
+POI005,Empire State Building,40.7484,-73.9857,Skyscraper,"[4.4, 4.2, 4.6, 4.3, 4.1]"
